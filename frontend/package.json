@@ -1,0 +1,1 @@
+{"name":"gogate-panel-frontend","version":"0.1.0","private":true,"scripts":{"dev":"vite","build":"vite build"},"dependencies":{"vue":"^3.4","axios":"^1.7","element-plus":"^2.6"},"devDependencies":{"vite":"^5.2","@vitejs/plugin-vue":"^5.0"}}
